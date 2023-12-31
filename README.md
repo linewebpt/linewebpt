@@ -1,0 +1,5 @@
+- 👋 Welcome! This is Line Web.
+- We are a Techonology Company that focuses on helping other companies/business getting into the Online World.
+- You can find some of the projects we are involved in here, and also, some softwares we develop for you to access for free.
+- 📩 You can reach us by email: github@lineweb.pt / projects@lineweb.pt or you can visit our website to learn more about us: https://lineweb.pt.
+- We hope we can make you acheive your dreams!
